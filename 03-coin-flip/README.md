@@ -19,4 +19,4 @@ Deploy a [contract](/03-coin-flip/AttackCoinFlip.sol) that will calculate the ou
 - Pass calculated `side` as guess and call `flip()`.
 
 ## TL;DR
-Deploy [`AttackCoinFlip`](/03-coin-flip/AttackCoinFlip.sol) on **Remix** and call `attack()` function 10 times to beat this level.
+Deploy [`AttackCoinFlip`](/03-coin-flip/AttackCoinFlip.sol) on **Remix**, set contract address and, call `attack()` function 10 times to beat this level.
