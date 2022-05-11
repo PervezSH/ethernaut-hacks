@@ -14,6 +14,7 @@ To hack a level go through the instructions provided in the `README.md` file for
 - [Level 1 - Fallback](https://github.com/PervezSH/ethernaut-hacks/tree/main/01-fallback)
 - [Level 2 - Fallout](https://github.com/PervezSH/ethernaut-hacks/tree/main/02-fallout)
 - [Level 3 - Coin Flip](https://github.com/PervezSH/ethernaut-hacks/tree/main/03-coin-flip)
+- [Level 4 - Telephone](/04-telephone/)
 
 ## Built With
 - [Remix](https://remix.ethereum.org/)
