@@ -16,6 +16,7 @@ To hack a level go through the instructions provided in the `README.md` file for
 - [Level 3 - Coin Flip](https://github.com/PervezSH/ethernaut-hacks/tree/main/03-coin-flip)
 - [Level 4 - Telephone](/04-telephone/)
 - [Level 5 - Token](/05-token/)
+- [Level 6 - Delegation](/06-delegation/)
 
 ## Built With
 - [Remix](https://remix.ethereum.org/)
