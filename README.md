@@ -17,6 +17,7 @@ To hack a level go through the instructions provided in the `README.md` file for
 - [Level 4 - Telephone](/04-telephone/)
 - [Level 5 - Token](/05-token/)
 - [Level 6 - Delegation](/06-delegation/)
+- [Level 7 - Force](/07-force/)
 
 ## Built With
 - [Remix](https://remix.ethereum.org/)
