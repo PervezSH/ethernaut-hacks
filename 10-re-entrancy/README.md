@@ -1,4 +1,4 @@
-# Level 10 - Re-entrancy ➰
+# Level 10 - Re-entrancy ➿
 
 **To beat this level, we need to o steal all the funds 💰 from the contract.**
 
@@ -21,4 +21,6 @@
 Deploy a [contract](/10-re-entrancy/AttackReentrance.sol) containing a `receive()` function (calling `withdraw()` function of the Reentrance contract), and an `attack()` function that would first deposit some ether to the Reentrance contract and then would call the `withdraw()` function.
 
 ## TL;DR 🙂
-Deploy [AttackReentrance](/10-re-entrancy/AttackReentrance.sol) on **Remix**, and call `attack()` function to beat this level.
+Deploy [AttackReentrance](/10-re-entrancy/AttackReentrance.sol) on **Remix** with value of  0.001 Ether (the amount the reentrance contract was seeded with), and call `attack()` function to beat this level.
+
+**You need to manually increase the gas limit in the metamask prompt or else the reentrancy calls will not succeed.**
