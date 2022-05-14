@@ -20,6 +20,7 @@ To hack a level go through the instructions provided in the `README.md` file for
 - [Level 7 - Force](/07-force/)
 - [Level 8 - Vault](/08-vault/)
 - [Level 9 - King](/09-king/)
+- [Level 10 - Re-entrancy](/10-re-entrancy/)
 
 ## Built With
 - [Remix](https://remix.ethereum.org/)
